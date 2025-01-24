@@ -3,6 +3,12 @@ In this repo we will perfrom Anomaly detection on astronomy data. From kaggle da
 # Data Downloading
 We downloaded data from kaggle "Astronomy Image Classification Dataset"
 
+![2](https://github.com/user-attachments/assets/119fbf99-b832-41a7-9fa2-c4515a2c7fbc)
+![5](https://github.com/user-attachments/assets/bbb7cdaa-9c1a-4ed5-9549-ccd08f1c51a5)
+![57](https://github.com/user-attachments/assets/271e719f-bb44-47b6-83aa-1562605f2c91)
+
+
+
 # Feature Extraction 
    - Use CLIP or DINO for extracting embeddings (pretrained weights are available).
    - Fine-tune if necessary for domain-specific anomalies.
