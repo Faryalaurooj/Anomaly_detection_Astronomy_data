@@ -8,11 +8,16 @@ We downloaded data from kaggle "Astronomy Image Classification Dataset"
    - Fine-tune if necessary for domain-specific anomalies.
 
 # Classification of anomaly
+
 ## With Isolation forest 
+
 `python isolation_forest.py`
 
-# WIth Auto Encoders 
+## With Auto Encoders 
+'python Auto_encoders.py'
 
-# With ResNet + ViT + Isolation Forest   
+## With ResNet + ViT + Isolation Forest  
+`python ResNet_ViT_Isolation_Forest.py`
+
 
    
